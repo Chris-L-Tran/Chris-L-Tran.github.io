@@ -1,2 +1,2 @@
 # Portfolio-Site
-My Persona Portfolio Site
+My Personal Portfolio Site
