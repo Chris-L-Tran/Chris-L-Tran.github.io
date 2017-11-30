@@ -1,4 +1,29 @@
 body{
-    background-color:black;
+    background-color:rgba(29, 26, 26, 0.911);
     color:white;
+}
+
+img{
+    border-radius:50%;
+    height:350px;
+    widows: 300px;
+    display: block;
+    margin: 0 auto;
+
+}
+h1{
+    text-align: center;
+    
+
+}
+
+h2{
+    color:white;
+    text-align: center;
+
+}
+
+p{
+    text-align: center;
+
 }
