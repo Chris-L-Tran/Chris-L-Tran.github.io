@@ -44,13 +44,14 @@ ul{
  
 }
 
-/*
+
 li{
     display: inline-block;
     float: none;
 }
-*/
+
 .styled-list{
+    
     text-align: center;
     
 }
