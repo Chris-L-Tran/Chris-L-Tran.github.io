@@ -18,5 +18,5 @@ Christopher L Tran
 
 ## Acknowledgements
 
-All the instructors at WDI
+All the instructors at **WDI**
 
